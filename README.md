@@ -2,7 +2,7 @@
 
 Sitio: https://donprofesor4-maker.github.io/os6/
 
-Conserva las prácticas originales (20 misiones normales, 30 avanzadas y las dos actividades de animación). El escritorio incluye:
+Conserva las prácticas originales (20 misiones normales, 30 avanzadas y las dos actividades de animación). El escritorio incluye accesos con doble clic, como en OS4. Central de archivos conserva el encargo a la izquierda y la ventana de trabajo a la derecha: árbol de carpetas, ruta navegable, iconos, menú contextual y ventanas de Guardar como. Incluye:
 
 - **Misiones de archivos:** 15 tareas progresivas evaluadas por operaciones y estado de archivos.
 - **Hacker Lab:** 10 retos desbloqueables, terminal simulada sin acceso al sistema operativo ni ejecución de archivos. Se desbloquea al terminar Explorador.
@@ -16,7 +16,7 @@ Los expedientes y las prácticas se almacenan en localStorage por alumno y naveg
 
 ## Uso
 
-Abrir Mi expediente, nombrar al alumno o crear otro expediente antes de practicar. Para crear o guardar archivos, abrir la carpeta de destino. Para copiar/mover, seleccionar archivo, Copiar/Cortar, abrir destino, Pegar. Para exportar la misión 12, seleccionar el informe en Proyecto y escribir `Evidencias/informe-final.html` como destino. En terminal: `help`, rutas absolutas con `/Documentos`, comillas para nombres o textos con espacios. No hay temporizadores ni botón para acreditar sin realizar operaciones.
+Abrir Mi expediente, nombrar al alumno o crear otro expediente antes de practicar. Para crear carpetas, elegir destino y pulsar Nueva carpeta. Para crear documentos: Nuevo documento, escribir y Guardar como; elegir carpeta y nombre. Para copiar/mover: clic derecho en el archivo, Copiar/Cortar, abrir destino y Pegar. También hay Acciones del archivo con un clic para pantallas táctiles. Para exportar la misión 12: clic derecho en el informe de Proyecto, Exportar como, elegir Evidencias y guardar como informe-final.html. En terminal: `help`, rutas absolutas con `/Documentos`, comillas para nombres o textos con espacios. No hay temporizadores ni botón para acreditar sin realizar operaciones.
 
 ## Validación
 
